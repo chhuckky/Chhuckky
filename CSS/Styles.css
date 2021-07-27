@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://wallpapercave.com/wp/DvbM0kh.jpg);
+  color: grey;  
+}
+p{
+  filter: brightness(50);
+}
+h1{
+  filter: brightness(50);
+}
+h3{
+  filter: brightness(50);
+}
+table{
+  filter: brightness(50);
+}
+ul{
+  filter: brightness(50);
+}
+ol{
+  filter: brightness(50);
+}
+form{
+  filter: brightness(50);
+}
